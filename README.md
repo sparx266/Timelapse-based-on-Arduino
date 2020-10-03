@@ -2,7 +2,7 @@
 Timelapse panner using Arduino and stepper motor for Go Pro cameras
 
 Timelapse panner based on Arduino
-
+<img src= /Photos/DSC01346.JPG>
 This repository is to store my files for a timelapse panner.
 Intended for a GoPro type camera, it does also support a heavy DSLR, but use with caution.
 
@@ -13,3 +13,6 @@ I used an Arduino Nano and a base board which are cheap off ebay.  This effectiv
 
 I also added a bleeper to alert me when the timelapse is up, this is optional. 
 
+<img src= /Photos/DSC01348.JPG>
+<img src= /Photos/DSC01349.JPG>
+<img src= /Photos/DSC01350.JPG>
