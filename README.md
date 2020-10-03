@@ -1,7 +1,6 @@
 # Timelapse-Panner-based-on-Arduino-and-28BYJ-48 5V Stepper Motor
 Timelapse panner using Arduino and stepper motor for Go Pro cameras
 
-Timelapse panner based on Arduino
 <img src= /Photos/DSC01346.JPG>
 This repository is to store my files for a timelapse panner.
 Intended for a GoPro type camera, it does also support a heavy DSLR, but use with caution.
